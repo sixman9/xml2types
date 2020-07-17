@@ -25,6 +25,15 @@
   },
   "author": "",
   "dependencies": {
-    "@caporal/core": "^2.0.2"
+    "@caporal/core": "^2.0.2",
+    "@types/readable-stream": "^2.3.9",
+    "@types/urijs": "^1.19.9",
+    "@types/xml2js": "^0.4.5",
+    "clipboardy": "^2.3.0",
+    "fs-extra-plus": "^0.5.18",
+    "generate-schema": "^2.6.0",
+    "is-url": "^1.2.4",
+    "quicktype-core": "^6.0.66",
+    "xml2js": "^0.4.23"
   }
 }
