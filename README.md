@@ -7,7 +7,7 @@
 ./src/index.ts -h
 ```
 
-- Better explain usage here in README
+- [ ] Better explained usage, here in the README
 - [ ] Removal of ['TSBB'][tsbb] Typescript build tool, for more stand tooling (e.g. tsc, ts-node)
 - [ ] Complete 'npm i global' installable CLi feature ([how?][cli-ts-how])
 - [ ] Possibly use of [Commander][commander] CLi project, instead o the very capable [Caporal][caporal] (larger user base?)
