@@ -2,6 +2,10 @@
   "name": "basic",
   "version": "1.0.0",
   "description": "Basic Example.",
+  "main": "./lib/index.js",
+  "bin" : {
+    "xml2types": "./lib/index.js"
+  },
   "scripts": {
     "prepare": "npm run build",
     "start": "node lib/index.js",
